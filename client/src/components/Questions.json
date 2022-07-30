@@ -1,0 +1,22 @@
+[
+    {
+        "question":"What color is Car?",
+        "options":["Black","Blue","White","Purple"],
+        "correct":"Black"
+    },
+    {
+        "question":"How Many Wheels Car Have?",
+        "options":["One","Two","Three"],
+        "correct":"Three"
+    },
+    {
+        "question":"How Many eyes humans have?",
+        "options":["One","Two","Three"],
+        "correct":"Two"
+    },
+    {
+        "question":"What is four minus three?",
+        "options":["One","Two","Three"],
+        "correct":"One"
+    }
+]
